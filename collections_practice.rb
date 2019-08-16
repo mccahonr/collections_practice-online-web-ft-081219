@@ -35,3 +35,7 @@ def find_a(array)
   end
   #select
 end
+
+def sum_array(array)
+  array.inject
+end
